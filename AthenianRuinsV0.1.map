@@ -441,5 +441,5 @@
 // entity 1
 {
 "classname" "info_player_start"
-"origin" "64 80 40"
+"origin" "160 720 40"
 }
